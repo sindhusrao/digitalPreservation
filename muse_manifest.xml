@@ -1,0 +1,46 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="revive.org" resolutions="1x" timestamp="1452501965231">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="4229381293" ref="index:explore:map:preserve"/>
+    <file name="index.css" crc="338502382" ref="index"/>
+    <file name="explore.css" crc="4265186958" ref="explore"/>
+    <file name="map.css" crc="4046608203" ref="map"/>
+    <file name="kuppalli.css" crc="4157262189" ref="kuppalli"/>
+    <file name="preserve.css" crc="4269440721" ref="preserve"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="kuppalli:explore:index:map:preserve"/>
+    <file name="museutils.js" crc="183364071" ref="kuppalli:explore:index:map:preserve"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="kuppalli"/>
+    <file name="jquery.watch.js" crc="71412426" ref="kuppalli:explore:index:map:preserve"/>
+    <file name="webpro.js" crc="3803554875" ref="kuppalli"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="kuppalli"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="kuppalli"/>
+    <file name="touchswipe.js" crc="4038331989" ref="kuppalli"/>
+    <file name="pie.js" crc="3827607177" ref="explore"/>
+  </folder>
+  <folder name="images">
+    <file name="bkgd-5.jpg" crc="109779457" seo="true" ref="kuppalli"/>
+    <file name="revive-logo-07.png" crc="3912204564" seo="true" ref="kuppalli:explore:index:map:preserve"/>
+    <file name="midground-3.png" crc="3807713237" seo="true" ref="kuppalli"/>
+    <file name="mountains-3.png" crc="34851988" seo="true" ref="kuppalli"/>
+    <file name="kuppalli-parallax-5.png" crc="3793289437" seo="true" ref="kuppalli"/>
+    <file name="u161-4.png" crc="4167251166" ref="kuppalli"/>
+    <file name="kuppalli_gp.png" crc="4251122796" seo="true" ref="kuppalli"/>
+    <file name="kuppalli-op1.jpg" crc="82675253" seo="true" ref="kuppalli"/>
+    <file name="blank.gif" crc="4208392903" ref="kuppalli"/>
+    <file name="1.jpg" crc="3758753506" seo="true" ref="kuppalli"/>
+    <file name="2.jpg" crc="75367046" seo="true" ref="kuppalli"/>
+    <file name="kuppalli-op171x45.jpg" crc="334255903" seo="true" ref="kuppalli"/>
+    <file name="160x45.jpg" crc="458575699" seo="true" ref="kuppalli"/>
+    <file name="260x45.jpg" crc="4077757252" seo="true" ref="kuppalli"/>
+    <file name="loading.gif" crc="3815509949" ref="kuppalli"/>
+    <file name="explore-final.jpg" crc="111017452" seo="true" ref="explore"/>
+    <file name="cover.jpg" crc="166351309" ref="index"/>
+  </folder>
+  <file name="kuppalli.html" crc="529344926" seo="true" mt="1450196576948" redirect="true"/>
+  <file name="explore.html" crc="4158905431" seo="true" mt="1449181352238" redirect="true"/>
+  <file name="index.html" crc="3887566544" seo="true" mt="1449181352238" redirect="true"/>
+  <file name="map.html" crc="504908383" seo="true" mt="1449181352238" redirect="true"/>
+  <file name="preserve.html" crc="3832266666" seo="true" mt="1449181352238" redirect="true"/>
+</manifest>
