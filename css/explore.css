@@ -1,7 +1,7 @@
 .version.explore /* version checker */
 {
-	color: #0000FE;
-	background-color: #39968E;
+	color: #0000FB;
+	background-color: #41FE9F;
 }
 
 .html
@@ -32,7 +32,7 @@
 
 #u704
 {
-	z-index: 25;
+	z-index: 20;
 	width: 1361px;
 	background-color: transparent;
 	position: relative;
@@ -41,7 +41,7 @@
 
 #buttonu573
 {
-	z-index: 27;
+	z-index: 22;
 	width: 877px;
 	border-style: none;
 	border-color: transparent;
@@ -71,17 +71,9 @@
 	-pie-background: rgba(0,0,0,1);
 }
 
-#buttonu573.ButtonSelected
-{
-	background-color: transparent;
-	width: 877px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
 #u574-7
 {
-	z-index: 28;
+	z-index: 23;
 	width: 343px;
 	min-height: 23px;
 	background-color: transparent;
@@ -89,8 +81,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	color: #FFFFFF;
-	text-align: center;
 	letter-spacing: 1px;
+	text-align: center;
 	font-family: comfortaa, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -137,12 +129,12 @@
 
 #buttonu692
 {
-	z-index: 35;
+	z-index: 30;
 	width: 877px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	padding-bottom: 139px;
+	padding-bottom: 122px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 354px;
@@ -168,17 +160,9 @@
 	-pie-background: rgba(0,0,0,1);
 }
 
-#buttonu692.ButtonSelected
-{
-	background-color: transparent;
-	width: 877px;
-	min-height: 0px;
-	margin: 354px -10000px 0px 0px;
-}
-
 #u693-7
 {
-	z-index: 36;
+	z-index: 31;
 	width: 343px;
 	min-height: 23px;
 	background-color: transparent;
@@ -186,8 +170,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	color: #FFFFFF;
-	text-align: center;
 	letter-spacing: 1px;
+	text-align: center;
 	font-family: comfortaa, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -234,7 +218,7 @@
 
 #buttonu695
 {
-	z-index: 43;
+	z-index: 38;
 	width: 484px;
 	border-style: none;
 	border-color: transparent;
@@ -265,17 +249,9 @@
 	-pie-background: rgba(0,0,0,1);
 }
 
-#buttonu695.ButtonSelected
-{
-	background-color: transparent;
-	width: 484px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
 #u696-11
 {
-	z-index: 44;
+	z-index: 39;
 	width: 390px;
 	min-height: 23px;
 	background-color: transparent;
@@ -283,8 +259,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	color: #FFFFFF;
-	text-align: center;
 	letter-spacing: 1px;
+	text-align: center;
 	font-family: comfortaa, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -331,7 +307,7 @@
 
 #u697-3
 {
-	z-index: 55;
+	z-index: 50;
 	width: 5px;
 	background-color: transparent;
 	position: relative;
@@ -342,12 +318,12 @@
 
 #buttonu698
 {
-	z-index: 58;
+	z-index: 53;
 	width: 1361px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	padding-bottom: 226px;
+	padding-bottom: 209px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 727px;
@@ -375,7 +351,7 @@
 
 #u699-7
 {
-	z-index: 59;
+	z-index: 54;
 	width: 390px;
 	min-height: 23px;
 	background-color: transparent;
@@ -383,8 +359,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	color: #FFFFFF;
-	text-align: center;
 	letter-spacing: 1px;
+	text-align: center;
 	font-family: comfortaa, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -431,7 +407,7 @@
 
 #buttonu700
 {
-	z-index: 66;
+	z-index: 61;
 	width: 681px;
 	border-style: none;
 	border-color: transparent;
@@ -464,7 +440,7 @@
 
 #u701-7
 {
-	z-index: 67;
+	z-index: 62;
 	width: 343px;
 	min-height: 23px;
 	background-color: transparent;
@@ -472,8 +448,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	color: #FFFFFF;
-	text-align: center;
 	letter-spacing: 1px;
+	text-align: center;
 	font-family: comfortaa, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -520,7 +496,7 @@
 
 #buttonu702
 {
-	z-index: 74;
+	z-index: 69;
 	width: 681px;
 	border-style: none;
 	border-color: transparent;
@@ -552,17 +528,9 @@
 	-pie-background: rgba(0,0,0,1);
 }
 
-#buttonu700.ButtonSelected,#buttonu702.ButtonSelected
-{
-	background-color: transparent;
-	width: 681px;
-	min-height: 0px;
-	margin: 1270px -10000px 0px 0px;
-}
-
 #u703-7
 {
-	z-index: 75;
+	z-index: 70;
 	width: 312px;
 	min-height: 23px;
 	background-color: transparent;
@@ -570,8 +538,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	color: #FFFFFF;
-	text-align: center;
 	letter-spacing: 1px;
+	text-align: center;
 	font-family: comfortaa, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -652,7 +620,7 @@
 
 #u491
 {
-	z-index: 19;
+	z-index: 14;
 	width: 101px;
 	margin-right: -10000px;
 	margin-top: 9px;
@@ -661,7 +629,7 @@
 
 #buttonu464
 {
-	z-index: 14;
+	z-index: 9;
 	width: 119px;
 	padding-bottom: 9px;
 	margin-right: -10000px;
@@ -682,9 +650,16 @@
 	margin: 0px -10000px 0px 0px;
 }
 
+#buttonu464.ButtonSelected
+{
+	width: 119px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
 #u465-4
 {
-	z-index: 15;
+	z-index: 10;
 	width: 119px;
 	min-height: 23px;
 	margin-right: -10000px;
@@ -709,64 +684,7 @@
 	margin: 18px -10000px 0px 0px;
 }
 
-#buttonu690
-{
-	z-index: 9;
-	width: 119px;
-	padding-bottom: 9px;
-	margin-right: -10000px;
-	left: 272px;
-}
-
-#buttonu464.ButtonSelected,#buttonu690:hover
-{
-	width: 119px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#buttonu690:active
-{
-	width: 119px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#buttonu690.ButtonSelected
-{
-	width: 119px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u691-4
-{
-	z-index: 10;
-	width: 119px;
-	min-height: 23px;
-	margin-right: -10000px;
-	margin-top: 18px;
-}
-
-#buttonu464.ButtonSelected #u465-4,#buttonu690:hover #u691-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 23px;
-	width: 119px;
-	margin: 18px -10000px 0px 0px;
-}
-
-#buttonu690:active #u691-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 23px;
-	width: 119px;
-	margin: 18px -10000px 0px 0px;
-}
-
-#buttonu690.ButtonSelected #u691-4
+#buttonu464.ButtonSelected #u465-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -781,7 +699,7 @@
 	width: 91px;
 	padding-bottom: 9px;
 	margin-right: -10000px;
-	left: 401px;
+	left: 304px;
 }
 
 #buttonu461:hover
@@ -848,7 +766,7 @@
 
 #u733-4
 {
-	z-index: 21;
+	z-index: 16;
 	width: 467px;
 	min-height: 26px;
 	margin-bottom: -35px;
